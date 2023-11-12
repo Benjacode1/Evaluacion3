@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Evaluacion1 APPMOVILES</string>
+    <string-array name="labs">
+        <item>C2</item>
+        <item>LINF</item>
+        <item>LEICA</item>
+        <item>LNET</item>
+        <item>LTEL</item>
+    </string-array>
+</resources>
